@@ -1,15 +1,15 @@
 # SITE CONFIGURATION
 baseurl: "/"
-url: "https://baronluo2.github.io"
+url: "https://luobangyan.cn"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
+title: Baron's website                                    # site's title
 description: "A website with blog posts and pages"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Baron's website  # Change Blog header text
+header_text: Baron's blog  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
