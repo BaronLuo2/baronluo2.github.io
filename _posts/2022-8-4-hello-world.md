@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "天气真热"
+title: "My PP exhibition"
 author: BaronLuo
 ---
-# 天气真热
+# My game overview
 
-this is for today
+Here for the *picture* of game
