@@ -10,7 +10,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 header_text: Baron's blog  # Change Blog header text
-header_feature_image: assets/img/header/triangular.jpeg
+header_feature_image: assets/img/Keystone.jpg
 header_feature_image_responsive: true
 footer_text: >
   byebye
