@@ -13,7 +13,7 @@ header_text: Baron's blog  # Change Blog header text
 header_feature_image: assets/img/Keystone.jpg
 header_feature_image_responsive: true
 footer_text: >
-  byebye
+  Design by BaronLuo
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
