@@ -15,7 +15,7 @@ Here for the *picture* of game
 ## game rule
 
 ## objective A report
-<a href="Objective-A">Objective A</a>
+<a href="Objective-A.md">Objective A</a>
 
 
 
