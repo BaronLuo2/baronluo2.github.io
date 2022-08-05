@@ -15,7 +15,7 @@ Here for the *picture* of game
 ## game rule
 
 ## objective A report
-<a href="Objective-A.md">Objective A</a>
+[Objective A](https://www.luobangyan.cn/pages/Objective-A.html)
 
 
 
