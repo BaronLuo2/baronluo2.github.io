@@ -13,6 +13,10 @@ Here for the *picture* of game
 
 ## game rule
 
+## objective A report
+<a href="www.cnn.com">CNN News</a>
 
 
-[pp main page](https:personalproject.me)
+
+
+###### [pp main page](https:personalproject.me)

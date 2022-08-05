@@ -9,7 +9,7 @@ avatar: assets/img/Baron_avatar.png                         # Empty for no avata
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Baron's blog  # Change Blog header text
+header_text: Baron's project  # Change Blog header text
 header_feature_image: assets/img/Keystone.jpg
 header_feature_image_responsive: true
 footer_text: >

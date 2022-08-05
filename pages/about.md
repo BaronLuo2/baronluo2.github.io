@@ -6,9 +6,12 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+This is my project gathering. I use this website for recording the project I have done in my life, including pp project and also c++ project in my c++ class.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+## c++ part
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+One of my project is [c++](https://www.luobangyan.cn/2022/08/05/cpp-code.html). I learn c++ 2 years and now I would like to put my code here for record what I am doing for those problem.
+
+## pp
  
+Another project is [pp](https://www.luobangyan.cn/2022/08/04/pp-project.html). This is the project I have chosen in 9th grade and finished in 10th grade, the topic I chose is *"The game balance and the relationship with math"* 
