@@ -7,11 +7,33 @@ tags: cpp
 
 # My c++ code
 
-
+### CF1060D
 ```c++
-
+#include<iostream>
+#include<algorithm>
+using namespace std;
+const int maxn=1e5+10;
+int r[maxn],l[maxn];
+int n;
+long long ans;
+int main()
+{
+    cin>>n;
+    for(int i=1;i<=n;i++)
+    {
+        cin>>l[i]>>r[i];
+    }
+    sort(r+1,r+n+1);
+    sort(l+1,l+n+1);
+    for(int i=1;i<=n;i++)
+    {
+        ans=ans+max(l[i],r[i]);
+    }
+    cout<<ans+n<<endl;
+    return 0;
+}
 ```
-## P4544
+### P4544
 ```c++
 #include<iostream>
 #include<cstdio>
@@ -67,7 +89,7 @@ int main()
 }
 ```
 
-## 3509
+### 3509
 ```c++
 #include<iostream>
 #include<cstdio>
