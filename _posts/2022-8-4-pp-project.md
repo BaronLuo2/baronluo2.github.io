@@ -2,6 +2,7 @@
 layout: post
 title: "My PP exhibition"
 author: BaronLuo
+tags: PP
 ---
 # My game overview
 
@@ -14,7 +15,7 @@ Here for the *picture* of game
 ## game rule
 
 ## objective A report
-<a href="www.cnn.com">CNN News</a>
+<a href="Objective-A">Objective A</a>
 
 
 

@@ -2,6 +2,7 @@
 layout: post
 title: "My c++ exhibition"
 author: BaronLuo
+tags: cpp
 ---
 
 # My c++ code
