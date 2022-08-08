@@ -1,0 +1,9 @@
+---
+layout: post
+title: "the first time"
+author: BaronLuo
+tags: Classmates
+img: "assets/img/Keystone.jpg"
+---
+# 结尾
+其实当我听到你要转学的时候是在跟fiona的聊天中得知的，我当时还是很震惊的，那几天其实我的心情非常得不好，总之祝你在新的学年，新的学校可以像在鼎石一样一帆风顺，事事顺心，祝你在那边一样可以取得好的成绩。不仅仅只是在学习方面，生活也要过的开心。期待如果下一个假期能回来再一块玩。
