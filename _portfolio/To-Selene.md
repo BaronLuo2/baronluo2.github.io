@@ -15,15 +15,17 @@ img: "assets/img/portfolio/8Q_class_photo1.jpeg"
 
 ![8Q_class_photo2](/assets/img/portfolio/8Q_class_photo2.jpeg)
 ## [初识](https://www.luobangyan.cn/portfolio/first-view)
-
+我们真正的认识是在8年级，回忆起来依旧是一段奇妙的旅程。
 
 ![8Q_class_photo3](/assets/img/portfolio/8Q_class_photo3.jpeg)
 ## [8Q班](https://www.luobangyan.cn/portfolio/8q)
+八年级，对我来说最美好的一年，有着各式各样，丰富多彩的回忆。
 
-
-## Grade 9
+![8Q_class_photo5](/assets/img/portfolio/8Q_class_photo5.jpeg)
+## [Grade 9](https://www.luobangyan.cn/portfolio/grade-9)
+9年级的住校，让班级之间的联系有了更多的可能。
 
 ## [结尾](https://www.luobangyan.cn/portfolio/ending)
 最后说一声谢谢你，也再一次祝你可以在新的学年一切顺利。
 
-##### 这里的事情全是我自己的真情实感，没有一点夸张，我也想把这一段美好的回忆以这样的一种方式记录下来
+##### *这里的事情全是我自己的真情实感，没有一点夸张，我也想把这一段美好的回忆以这样的一种方式记录下来*
