@@ -4,7 +4,7 @@ title: "To Selene"
 author: BaronLuo
 tags: Classmates
 feature-img: "assets/img/portfolio/8Q_class_photo1_fixedversion.jpeg"
-img: "assets/img/portfolio/8Q_class_photo1_fixedversion.jpeg"
+img: "assets/img/portfolio/8Q_class_photo1.jpeg"
 ---
 
 # 致我们美好的回忆
