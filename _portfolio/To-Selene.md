@@ -3,7 +3,7 @@ layout: post
 title: "To Selene"
 author: BaronLuo
 tags: Classmates
-feature-img: "assets/img/portfolio/8Q_class_photo1_fixedversion.jpeg"
+feature-img: "assets/img/portfolio/8Q_class_photo1_fixedversion.png"
 img: "assets/img/portfolio/8Q_class_photo1.jpeg"
 ---
 
