@@ -18,7 +18,7 @@ img: "assets/img/portfolio/8Q_class_photo1.jpeg"
 
 
 ![8Q_class_photo3](/assets/img/portfolio/8Q_class_photo3.jpeg)
-## [8Q班](https://www.luobangyan.cn/portfolio/8Q)
+## [8Q班](https://www.luobangyan.cn/portfolio/8q)
 
 
 ## Grade 9
