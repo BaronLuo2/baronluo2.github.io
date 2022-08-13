@@ -11,7 +11,7 @@ img: "assets/img/portfolio/8Q_class_photo1.jpeg"
 #### **点击标题即可观看详细内容，这里仅限简介和图片**
 
 ## [前言](https://www.luobangyan.cn/portfolio/preface)
-这个网站就是我送给你的礼物，希望你能喜欢。
+这个网站就是我另送给你的礼物，希望你能喜欢。
 
 ![8Q_class_photo2](/assets/img/portfolio/8Q_class_photo2.jpeg)
 ## [初识](https://www.luobangyan.cn/portfolio/first-view)
@@ -26,6 +26,6 @@ img: "assets/img/portfolio/8Q_class_photo1.jpeg"
 9年级的住校，让班级之间的联系有了更多的可能。但依旧有些事情会渐渐淡化。
 
 ## [结尾](https://www.luobangyan.cn/portfolio/ending)
-天下没有不散的宴席，是时候该说再见了。
+天下没有不散的宴席，是时候该说再见了，祝我们友谊长存。
 
 ##### *这里的事情全是我自己的真情实感，没有一点夸张，我也想把这一段美好的回忆以这样的一种方式记录下来*
