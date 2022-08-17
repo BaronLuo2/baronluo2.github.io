@@ -3,6 +3,7 @@ layout: post
 title: "To Selene"
 author: BaronLuo
 tags: Classmates
+date: 7 August 2022
 feature-img: "assets/img/portfolio/8Q_class_photo1_fixedversion.png"
 img: "assets/img/portfolio/8Q_class_photo1.jpeg"
 ---
@@ -29,3 +30,4 @@ img: "assets/img/portfolio/8Q_class_photo1.jpeg"
 天下没有不散的宴席，是时候该说再见了，祝我们友谊长存。
 
 ##### *这里的事情全是我自己的真情实感，没有一点夸张，我也想把这一段美好的回忆以这样的一种方式记录下来*
+##### *8/7/2022-8/17/2022*
