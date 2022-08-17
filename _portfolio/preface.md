@@ -3,6 +3,7 @@ layout: post
 title: "前言"
 author: BaronLuo
 tags: Classmates
+date: 8 August 2022
 img: "assets/img/portfolio/preface.png"
 ---
 

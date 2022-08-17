@@ -3,6 +3,7 @@ layout: post
 title: "the first time"
 author: BaronLuo
 tags: Classmates
+date: 10 August 2022
 img: "assets/img/Keystone.jpg"
 ---
 # 结尾
