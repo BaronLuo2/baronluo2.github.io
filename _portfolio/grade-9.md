@@ -4,7 +4,7 @@ title: "9年级"
 author: BaronLuo
 tags: Classmates
 date: 17 August 2022
-img: "/assets/img/portfolio/last_photo.jpeg"
+feature-img: "/assets/img/portfolio/last_photo.jpeg"
 ---
 
 
