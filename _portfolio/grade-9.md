@@ -4,7 +4,6 @@ title: "the first time"
 author: BaronLuo
 tags: Classmates
 date: 17 August 2022
-img: 
 ---
 
 
