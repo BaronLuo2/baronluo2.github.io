@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the first time"
+title: "初识"
 author: BaronLuo
 tags: Classmates
 date: 9 August 2022

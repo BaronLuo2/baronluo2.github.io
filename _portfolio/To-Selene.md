@@ -21,7 +21,7 @@ img: "assets/img/portfolio/8Q_class_photo1.jpeg"
 
 ![8Q_class_photo3](/assets/img/portfolio/8Q_class_photo3.jpeg)
 ## [8Q班](https://www.luobangyan.cn/portfolio/8q)
-八年级，对我来说最美好的一年，有着各式各样，丰富多彩的回忆。
+八年级，对我来说最美好的一年，有着各式各样，丰富多彩的回忆。（这也是我篇幅最长的一篇）
 
 ![8Q_class_photo5](/assets/img/portfolio/8Q_class_photo5.jpeg)
 ## [Grade 9](https://www.luobangyan.cn/portfolio/grade-9)
