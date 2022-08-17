@@ -10,6 +10,7 @@ img: "assets/img/portfolio/8Q_class_photo1.jpeg"
 
 # 致我们美好的回忆
 #### **点击标题即可观看详细内容，这里仅限简介和图片**
+#### 这是我第一次做网站，如有任何不妥的地方请海涵谢谢
 
 ## [前言](https://www.luobangyan.cn/portfolio/preface)
 这个网站就是我另送给你的礼物，希望你能喜欢。
