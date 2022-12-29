@@ -15,7 +15,10 @@ Here for the *picture* of game
 ## game rule
 
 ## objective A report
-[Objective A](https://www.luobangyan.cn/pages/Objective-A.html)
+
+## objective B report
+
+## objective C report
 
 
 
