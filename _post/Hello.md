@@ -2,7 +2,6 @@
 layout: post
 title: "My PP exhibition"
 author: BaronLuo
-tags: PP
 ---
 # My game overview
 
